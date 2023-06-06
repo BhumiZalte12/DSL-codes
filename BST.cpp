@@ -1,3 +1,7 @@
+/*
+Problem Statement:
+Understand the implementation of the Binary Search Tree like find minimum
+max,insert, delete,find,inorder,preorder etc.*/
 #include<iostream>
 using namespace std;
 class node
